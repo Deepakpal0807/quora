@@ -1,0 +1,22 @@
+h1{
+    font-weight: 800;
+    color: maroon;
+    font-style: italic;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.card-body{
+    background-color: rgb(255, 183, 155);
+    border-radius: 30px;
+    border: none;
+}
+.card-title{
+    font-style: italic;
+    color: red;
+}
+.card{
+    border: none;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
